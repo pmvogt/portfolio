@@ -1,3 +1,3 @@
 # portfolio
 
-##### My personal site. Built on Jekyll. Special thanks to @beslinger, @lepozepo
+My personal site. Built on Jekyll. Special thanks to beslinger, lepozepo :tropical_drink:
