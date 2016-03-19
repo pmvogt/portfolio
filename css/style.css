@@ -216,10 +216,11 @@ pre > code {
   letter-spacing: 0.02em;
   color: #424242;
 }
-.site-nav {
+.logo {
   float: right;
-  line-height: 56px;
-  margin-top: 28px;
+  height: 48px;
+  width: 100px;
+  margin-top: 42px;
 }
 .site-nav .menu-icon {
   display: none;
