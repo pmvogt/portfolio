@@ -308,6 +308,19 @@ pre > code {
    height: 100px;
    border-radius: 10px;
  }
+
+ .twitter-follow-button {
+     position: relative;
+  height: 20px;
+  padding: 1px 8px 1px 6px;
+  margin-auto: 0;
+  font-weight: 500;
+  color: #fff;
+  cursor: pointer;
+  background-color: #1b95e0;
+  border-radius: 3px;
+  margin: 0;
+ }
 /**
  * Site footer
  */
